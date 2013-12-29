@@ -1,0 +1,6 @@
+body{ background: #eeeeee;}
+#container {width:960px; height: 100%;  margin: auto; padding-top: 50px;}
+h1{font-family: times;font-size: 30px; color:#009900; margin-left: 300px;}
+.form { font-family: arial; font-size: 14px; color:#0000FF; margin-left: 300px;}
+.form .check {font-family: arial; font-size: 14px; color:#0000FF;}
+.form .input {width: 200px; height: 27px; margin-bottom: 10px; margin-left: 10px;}
